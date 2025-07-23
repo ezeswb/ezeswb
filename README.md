@@ -59,6 +59,6 @@
 
 <h2> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3l4bG5reno3aGxwOHQ4MnhsaGF0cDBsczZyd3R6cjRpd3NhMTZyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tEeoaz9Fw4qzBhQR9z/giphy.gif" width = 32px> Support Me </h2>
 
-[![PayPal](https://img.shields.io/badge/PayPal-%23E8E8E8?style=flat&logo=paypal&labelColor=%23003087)](https://paypal.me/BlueezzuPay)
+[![PayPal](https://img.shields.io/badge/PayPal-%23E8E8E8?style=flat&logo=paypal&labelColor=%23003087)](https://www.paypal.com/ncp/payment/PF5WPKE9TP5D6)
 
 <!-- + theend + -->
