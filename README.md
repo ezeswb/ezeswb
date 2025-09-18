@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/ezeswb.svg?style=social&label=Followers)](https://github.com/Ahmad-shaikh575?tab=followers)
 <img src="https://komarev.com/ghpvc/?username=ezeswb&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/eze.swb/)
-[![PayPal](https://img.shields.io/badge/PayPal-%23E8E8E8?style=flat&logo=paypal&labelColor=%23003087)](https://www.paypal.com/ncp/payment/4E7GB62FGBSG2)
+[![PayPal](https://img.shields.io/badge/PayPal-%23E8E8E8?style=flat&logo=paypal&labelColor=%23003087)](https://www.paypal.com/ncp/payment/2DLYG69FSC8M8)
 
 <!-- + Aboutme + -->
 
@@ -60,6 +60,5 @@
 
 <h2> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3l4bG5reno3aGxwOHQ4MnhsaGF0cDBsczZyd3R6cjRpd3NhMTZyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tEeoaz9Fw4qzBhQR9z/giphy.gif" width = 32px> Support Me </h2>
 
-[![PayPal](https://img.shields.io/badge/PayPal-%23E8E8E8?style=flat&logo=paypal&labelColor=%23003087)](https://www.paypal.com/ncp/payment/4E7GB62FGBSG2)
-
+[![PayPal](https://img.shields.io/badge/PayPal-%23E8E8E8?style=flat&logo=paypal&labelColor=%23003087)](https://www.paypal.com/ncp/payment/2DLYG69FSC8M8)
 <!-- + theend + -->
