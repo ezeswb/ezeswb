@@ -43,17 +43,11 @@
 + -->
 <!-- + Analytics + -->
 
-<h2> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajA2dnhkaWs0enh4d2Rua2tlZWkxNnIya2FrZGNuazhndGE4MDhkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2HXzzlCQXUaM56KMu0/giphy.gif" width = 32px> GitHub Analytics </h2>
 <p align="center">
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ezeswb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ezeswb&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ezeswb&theme=dark&hide_border=true"/>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ezeswb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ezeswb&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 <!-- + Suportme + -->
