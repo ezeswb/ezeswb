@@ -47,9 +47,10 @@
 <a href="https://github.com/ezeswb">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ezeswb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ezeswb&layout=compact&langs_count=8&theme=algolia"/>
+  
 </a>
 </p>
-
+  
 <!-- + Suportme + -->
 
 <h2> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3l4bG5reno3aGxwOHQ4MnhsaGF0cDBsczZyd3R6cjRpd3NhMTZyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tEeoaz9Fw4qzBhQR9z/giphy.gif" width = 32px> Support Me </h2>
