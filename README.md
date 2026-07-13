@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/ezeswb.svg?style=social&label=Followers)](https://github.com/Ahmad-shaikh575?tab=followers)
 <img src="https://komarev.com/ghpvc/?username=ezeswb&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/eze.swb/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ezeswb/)
 [![PayPal](https://img.shields.io/badge/PayPal-%23E8E8E8?style=flat&logo=paypal&labelColor=%23003087)](https://paypal.me/ezesubfran)
 
 <!-- + Aboutme + -->
